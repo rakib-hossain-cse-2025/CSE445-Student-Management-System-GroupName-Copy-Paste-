@@ -37,7 +37,7 @@ Setup Instructions:
 Database: cse445_student_db  
 4.Import the students table schema. 
 5. Open the project in the browser : 
-http://localhost/project-folder/ 
+http://localhost/cse445_student_crud/index.php 
 6 . Login using : 
 Username: admin 
 Password: 12345 
